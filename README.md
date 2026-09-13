@@ -1,6 +1,6 @@
-#Bellevue University - WEB425 Angular and Typescript
+# Bellevue University - WEB425 Angular and Typescript
 
-## This is one of several Angular projects with the intent of being a custom "portfolio" caliber project. 
+This is one of several Angular projects with the intent of being a custom "portfolio" caliber project. 
 
 ### Requirements
 Your portfolio should include the following pages: 
