@@ -16,8 +16,7 @@ import { Component } from '@angular/core';
         </div>
 
         <div class="portrait-placeholder" role="img" aria-label="Profile photo placeholder">
-          <span>JC</span>
-          <small>Replace with profile photo</small>
+        <img src="assets/images/jc.jpg" alt="Profile photo of Jonathan Cantu" />
         </div>
       </div>
     </section>

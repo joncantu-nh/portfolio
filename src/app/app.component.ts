@@ -13,6 +13,7 @@ import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
         <a class="brand" routerLink="/" aria-label="JC portfolio home">
           <span class="brand__mark" aria-hidden="true">JC</span>
           <span class="brand__text">
+            <strong>Jonathan Cantu</strong>
             <strong>Software Engineer</strong>
             <span>Systems · Applications · Data</span>
           </span>
