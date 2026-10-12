@@ -10,8 +10,8 @@ import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
 
     <header class="site-header">
       <div class="shell site-header__inner">
-        <a class="brand" routerLink="/" aria-label="JC portfolio home">
-          <span class="brand__mark" aria-hidden="true">JC</span>
+        <a class="brand" routerLink="/" aria-label="Jonathan Cantu portfolio home">
+          <span class="brand__mark" aria-hidden="true">Jonathan Cantu</span>
           <span class="brand__text">
             <strong>Jonathan Cantu</strong>
             <strong>Software Engineer</strong>
@@ -38,7 +38,7 @@ import { RouterLink, RouterLinkActive, RouterOutlet } from '@angular/router';
           <strong>Built deliberately.</strong>
           <p>Angular · TypeScript · accessible HTML · testable behavior</p>
         </div>
-        <p>© {{ currentYear }} JC</p>
+        <p>© {{ currentYear }} Jonathan Cantu</p>
       </div>
     </footer>
   `,

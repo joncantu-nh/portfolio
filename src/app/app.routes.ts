@@ -7,10 +7,10 @@ import { ProjectsComponent } from './projects/projects.component';
 import { ResumeComponent } from './resume/resume.component';
 
 export const routes: Routes = [
-  { path: '', component: HomeComponent, title: 'JC | Software Engineer' },
-  { path: 'about', component: AboutComponent, title: 'About | JC' },
-  { path: 'resume', component: ResumeComponent, title: 'Resume | JC' },
-  { path: 'projects', component: ProjectsComponent, title: 'Projects | JC' },
-  { path: 'projects/:slug', component: ProjectDetailComponent, title: 'Project | JC' },
-  { path: '**', component: NotFoundComponent, title: 'Page Not Found | JC' },
+  { path: '', component: HomeComponent, title: 'Jonathan Cantu | Software Engineer' },
+  { path: 'about', component: AboutComponent, title: 'About | Jonathan Cantu' },
+  { path: 'resume', component: ResumeComponent, title: 'Resume | Jonathan Cantu' },
+  { path: 'projects', component: ProjectsComponent, title: 'Projects | Jonathan Cantu' },
+  { path: 'projects/:slug', component: ProjectDetailComponent, title: 'Project | Jonathan Cantu' },
+  { path: '**', component: NotFoundComponent, title: 'Page Not Found | Jonathan Cantu' },
 ];
