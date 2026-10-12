@@ -10,8 +10,7 @@ import { Component } from '@angular/core';
           <p class="eyebrow">Resume</p>
           <h1>Senior software engineering across systems, applications, cloud, and data.</h1>
           <p class="page-intro__lead">
-            A concise web version of the experience behind this portfolio. Replace or refine the entries below before
-            publishing so they match the resume you want employers to use.
+            A concise web version of the experience behind this portfolio.
           </p>
         </div>
         <a class="button button--primary" href="/assets/resume/resume.pdf" download>Download PDF</a>

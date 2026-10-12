@@ -1,10 +1,7 @@
 import { Project } from '../models/project';
 
 /**
- * Public portfolio project data.
- *
- * Keep this file intentionally boring: it is content, not application logic.
- * Replace repository URLs with the exact public URLs you want visitors to use.
+ * Project data.
  */
 export const PROJECTS: readonly Project[] = [
   {
@@ -24,7 +21,7 @@ export const PROJECTS: readonly Project[] = [
       'Testable routing and application behavior',
     ],
     course: 'Bellevue University — Web Application Development',
-    githubUrl: 'https://github.com/',
+    githubUrl: 'https://github.com/joncantu-nh/what-a-book-fastapi',
     featured: true,
   },
   {
@@ -44,7 +41,7 @@ export const PROJECTS: readonly Project[] = [
       'FirefoxHeadless automated testing and TDD workflow',
     ],
     course: 'WEB425 — Angular with TypeScript',
-    githubUrl: 'https://github.com/',
+    githubUrl: 'https://github.com/joncantu-nh/rpg-character-builder',
     featured: true,
   },
   {
@@ -82,6 +79,7 @@ export const PROJECTS: readonly Project[] = [
       'Emphasis on flow, feedback, and operational clarity',
     ],
     course: 'Bellevue University — DevOps coursework',
+    githubUrl: 'https://github.com/joncantu-nh/WEB430',
     featured: false,
   },
   {
