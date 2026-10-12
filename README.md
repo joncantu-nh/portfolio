@@ -1,10 +1,10 @@
 # Bellevue University - WEB425 Angular and Typescript
 
+## Assignment: 
 This is one of several Angular projects with the intent of being a custom "portfolio" caliber project. 
 
 ### Requirements
-Your portfolio should include the following pages: 
-- Landing Page: This is the first page visitors will see when they visit your site. It should include a brief introduction to who you are, a bucket list of things you want to do, and navigation links to the other pages in your site.
+- Landing Page: This is the first page visitors will seehey visit your site. It should include a brief introduction to who you are, a bucket list of things you want to do, and navigation links to the other pages in your site.
 - Resume Page: This page should include a detailed resume that outlines your education, skills, experience, and any relevant certifications or awards. You should also provide a link to download your resume as a PDF or other document format.
 - About Page: This page should include a short bio about you and an image. This is your chance to share a bit about who you are, your journey into development, and what you're passionate about.
 - Projects Page: This page should include links to all of the projects you've worked on during this course and in this program. For each project, provide a brief description of the technologies used and what you learned from the project.
@@ -29,3 +29,23 @@ portfolio
   public
   src
   // remaining files
+
+## First-time setup
+
+### Build and Run
+
+```bash
+cd portfolio-angular-complete
+nvm use
+npm install
+npm run build
+npm run test:ci
+npm start
+```
+
+Or run:
+
+```bash
+./scripts/bootstrap.sh
+```
+
