@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
             A concise web version of the experience behind this portfolio.
           </p>
         </div>
-        <a class="button button--primary" href="/assets/resume/resume.pdf" download>Download PDF</a>
+        <a class="button button--primary" href="assets/resume/resume.pdf" download>Download PDF</a>
       </div>
     </section>
 
