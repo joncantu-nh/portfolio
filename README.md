@@ -35,9 +35,8 @@ portfolio
 ### Build and Run
 
 ```bash
-cd portfolio-angular-complete
 nvm use
-npm install
+npm ci
 npm run build
 npm run test:ci
 npm start
@@ -46,6 +45,6 @@ npm start
 Or run:
 
 ```bash
-./scripts/bootstrap.sh
+./buildrun.sh
 ```
 
